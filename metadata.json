@@ -2,5 +2,7 @@
   "name": "Melt & Churn Artisan Creamery",
   "description": "Artisan ice cream shop featuring an interactive 3D flavor studio, custom scoop builder, online ordering, and delivery tracking.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
